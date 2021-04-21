@@ -1,6 +1,6 @@
 {
 	"name": "Moz Developer Network (MDN) Search",
-	"description": "Add Mozilla Developer Network (MDN) to your search engine",
+	"description": "Add Mozilla Developer Network (MDN) to your search engine. Lovingly forked from https://dannycolin.com",
 	"version": "0.1",
 	"manifest_version": 2,
 	"applications":{
@@ -10,8 +10,8 @@
 		}
 	},
 	"developer": {
-		"name": "Danny Colin",
-		"url": "https://dannycolin.com"
+		"name": "Eli Itah",
+		"url": "https://www.that-eli.com/"
 	},
 	"icons": {
 		"32": "favicon.png"

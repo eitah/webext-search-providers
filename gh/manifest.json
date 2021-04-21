@@ -1,7 +1,7 @@
 {
-	"name": "GitHub Search",
-	"description": "Add GitHub to your search engine",
-	"version": "0.1",
+	"name": "Itah GitHub Search",
+	"description": "Add GitHub to your search engine. Lovingly forked from https://dannycolin.com",
+	"version": "0.2",
 	"manifest_version": 2,
 	"applications":{
 		"gecko": {
@@ -10,8 +10,8 @@
 		}
 	},
 	"developer": {
-		"name": "Danny Colin",
-		"url": "https://dannycolin.com"
+		"name": "Eli Itah",
+		"url": "https://www.that-eli.com/"
 	},
 	"icons": {
 		"16": "favicon.png"
@@ -23,7 +23,7 @@
 		"search_provider": {
 			"name": "GitHub",
       "keyword": "@gh",
-			"search_url": "https://github.com/search?q={searchTerms}"
+			"search_url": "https://github.com/search?q=org:tempuslabs+{searchTerms}"
 		}
 	}
 }
